@@ -1,0 +1,11 @@
+*.pyc
+*.pt
+*.npy
+*.npz
+*.svg
+*.pdf
+*.jpg
+*.pkl
+*.DS_Store
+*.gif
+*.xlxs
