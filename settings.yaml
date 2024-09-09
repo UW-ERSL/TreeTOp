@@ -1,0 +1,37 @@
+BBOX:
+  x_max: 60.0
+  x_min: 0.0
+  y_max: 30.0
+  y_min: 0.0
+
+MESH:
+  nelx: 60
+  nely: 30
+
+MATERIAL:
+  poissons_ratio: 0.3
+  youngs_modulus: 1.0
+
+BOUNDARY_COND:
+  example: MBB_BEAM
+
+QUADRIC:
+  cx_min: 5.
+  cx_max: 55.
+  cy_min: 3.
+  cy_max: 27.
+  a_min: 5.
+  a_max: 20.
+  b_min: 3.
+  b_max: 15.
+  th_min: 0.
+  th_max: 3.14159
+
+TREE:
+  num_levels: 6
+
+OPTIMIZATION:
+  desired_vol_frac: 0.5
+  learning_rate: 0.05
+  num_epochs: 200
+  plot_interval: 10

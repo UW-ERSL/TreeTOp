@@ -1,0 +1,5 @@
+JAX version: 0.4.20
+NumPy version: 1.26.3
+SciPy version: 1.10.0
+Pandas version: 1.5.3
+Matplotlib version: 3.7.0
