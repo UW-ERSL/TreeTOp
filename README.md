@@ -1,6 +1,6 @@
 # [TreeTOp: Topology Optimization using Constructive Solid Geometry Trees](https://arxiv.org/abs/2409.02300)
 
-[Rahul Kumar Padhy](https://sites.google.com/view/rahulkp/home), Pramod Thombre, [Krishnan Suresh](https://ersl.wisc.edu/research.html), [Aaditya Chandrasekhar](https://www.aadityacs.com/)
+[Rahul Kumar Padhy](https://sites.google.com/view/rahulkp/home), Pramod Thombre, [Krishnan Suresh](https://ersl.wisc.edu/research.html), [Aaditya Chandrasekhar](https://aadityacs.github.io/)
 
 
 ## Abstract
