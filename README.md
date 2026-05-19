@@ -1,6 +1,6 @@
 # [TreeTOp: Topology Optimization using Constructive Solid Geometry Trees](https://arxiv.org/abs/2409.02300)
 
-[Rahul Kumar Padhy](https://sites.google.com/view/rahulkp/home), Pramod Thombre, [Krishnan Suresh](https://ersl.wisc.edu/research.html), [Aaditya Chandrasekhar](https://aadityacs.github.io/)
+[Rahul Kumar Padhy](https://sites.google.com/view/rahulkp/home), [Pramod Thombre](https://scholar.google.com/citations?user=pMWVTWIAAAAJ&hl=en), [Krishnan Suresh](https://ersl.wisc.edu/research.html), [Aaditya Chandrasekhar](https://aadityacs.github.io/)
 
 
 ## Abstract
@@ -13,10 +13,14 @@ Feature-mapping methods for topology optimization (FMTO) facilitate direct geome
 
 ```
 
-@article{padhy2024treetop,
-  title={TreeTOp: Topology Optimization using Constructive Solid Geometry Trees},
-  author={Padhy, Rahul Kumar and Thombre, Pramod and Suresh, Krishnan and Chandrasekhar, Aaditya},
-  journal={arXiv preprint arXiv:2409.02300},
-  year={2024}
+@article{padhy2025treetop,
+  title={Treetop: topology optimization using constructive solid geometry trees},
+  author={Kumar Padhy, Rahul and Thombre, Pramod and Suresh, Krishnan and Chandrasekhar, Aaditya},
+  journal={Structural and Multidisciplinary Optimization},
+  volume={68},
+  number={2},
+  pages={39},
+  year={2025},
+  publisher={Springer}
 }
 ```
